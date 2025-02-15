@@ -15,3 +15,4 @@ A simple **Weather Application** that provides real-time weather updates based o
 - **JavaScript** - Fetching and displaying weather data  
 - **OpenWeather API** - Provides real-time weather data  
 ![image](https://github.com/user-attachments/assets/f605fa85-9a98-4fd8-a83b-cb1d3add9a0b)
+![image](https://github.com/user-attachments/assets/a1cc5698-cf25-4f31-8df4-2fb810a3d2c5)
